@@ -1,4 +1,4 @@
-# Face Detection App with Python
+# Face Mask Detection App with Python
 Overview
 This Python Face Detection App utilizes computer vision techniques to detect faces in images or video streams. It is built using the OpenCV library, a popular computer vision library in Python.
 
